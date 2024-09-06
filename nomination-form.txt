@@ -1,0 +1,35 @@
+# Nomination Form
+
+I, [Your Full Name], hereby nominate the person(s) mentioned below to receive the amount that may stand to my credit in the Fund in the event of my death before that amount has become payable or, having become payable, has not been paid. I also declare that my marital status is [Your Marital Status].
+
+## Details of Nominees:
+
+| **Name, Full Permanent Address, and Aadhar No. of Nominees** | **Relation with the Subscriber** | **Age** | **Share Payable to Each in Percentage** | **Contingencies on the Happening of which Nomination Shall Become Invalid** | **Name, Address, Aadhar No., Relationship, and Age of the Person to Whom the Right of the Nominee Shall Pass in the Event of His/Her Predeceasing the Subscriber** |
+|--------------------------------------------------------------|---------------------------------|---------|---------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Nominee 1 Name, Address, Aadhar No.]                       | [Relation]                      | [Age]   | [Share Percentage]                    | [Contingency Details]                                                   | [Details of Successor Nominee if Predeceased]                                                                                                                                      |
+| [Nominee 2 Name, Address, Aadhar No.]                       | [Relation]                      | [Age]   | [Share Percentage]                    | [Contingency Details]                                                   | [Details of Successor Nominee if Predeceased]                                                                                                                                      |
+| [Nominee 3 Name, Address, Aadhar No.]                       | [Relation]                      | [Age]   | [Share Percentage]                    | [Contingency Details]                                                   | [Details of Successor Nominee if Predeceased]                                                                                                                                      |
+
+## Additional Instructions or Remarks (if any):
+
+[Include any additional instructions or remarks here]
+
+**Subscriber's Signature:** __________________________
+
+**Date:** ____________________
+
+**Witness 1:**
+
+Name: _______________________
+
+Address: ____________________
+
+Signature: ___________________
+
+**Witness 2:**
+
+Name: _______________________
+
+Address: ____________________
+
+Signature: ___________________
